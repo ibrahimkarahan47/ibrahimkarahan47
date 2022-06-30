@@ -33,9 +33,12 @@
   <img src="https://github.com/github/explore/blob/main/topics/json/json.png" alt="json" width="40" height="40"/>
 </p>
 
-- 🔭 I’m currently working as a Full Stack Software Development Engineer in Modanisa. 
+- 🔭 I’m currently working as a Software Development Engineer at Trendyol. 
 - 👯 I’m looking to collaborate on open source project which is developed by Go. 
 - 📫 How to reach me: karahan930@gmail.com 
+
+### Blog Posts✍️
+- [Measure Performance of Endpoint with k6](https://medium.com/@ikarahan/measure-performance-of-endpoint-with-k6-cb01048031f5)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ibrahimkarahan47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ibrahim-karahan-1b9688134//)  
