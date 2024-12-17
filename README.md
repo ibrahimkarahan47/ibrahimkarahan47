@@ -8,7 +8,3 @@
 - [Measure Performance of Endpoint with k6](https://medium.com/@ikarahan/measure-performance-of-endpoint-with-k6-cb01048031f5)
 - [Microservice Pattern Kitap Özeti 📖](https://medium.com/@ikarahan/microservice-pattern-kitap-%C3%B6zeti-3ebe20727587)
 - [Experience with Couchbase Elasticsearch Connector Modes](https://medium.com/@ikarahan/experience-with-couchbase-elasticsearch-connector-modes-44b458355c65)
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ibrahim-karahan-1b9688134//)  
