@@ -10,4 +10,5 @@
 - [Experience with Couchbase Elasticsearch Connector Modes](https://medium.com/@ikarahan/experience-with-couchbase-elasticsearch-connector-modes-44b458355c65)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ibrahimkarahan47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ibrahim-karahan-1b9688134//)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ibrahim-karahan-1b9688134//)  
